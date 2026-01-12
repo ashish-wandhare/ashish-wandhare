@@ -46,7 +46,7 @@
 - Implemented document retrieval using HuggingFace embeddings and Chroma vector store, and generated responses using FLAN-T5
 - Deployed interactive UI using Streamlit
 - Tech Stack: Streamlit, LangChain, HuggingFace Embeddings, Chroma DB, FLAN-T5
-- GitHub Repo: https://github.com/ashish-wandhare/REPO_NAME
+- GitHub Repo: https://github.com/ashish-wandhare/GenAI_Chatbot
 ---
 
 ## 📫 Connect With Me
