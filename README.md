@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ashish Wandhare 👋
 
-<!--
-**ashish-wandhare/ashish-wandhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Networking Professional with 10 years of experience  
+🚀 Transitioning to Data Science & AI  
+📌 Skills: Python | SQL | Machine Learning | Data Analytics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 10 years of experience in Networking and troubleshooting
+- Currently learning Data Science, Machine Learning, and AI
+- Interested in solving real-world problems using data-driven approaches
+- Building projects to strengthen my Data Science profile
+
+---
+
+## 🛠️ Skills & Tools
+- **Programming:** Python  
+- **Data:** SQL, Pandas, NumPy  
+- **ML:** Scikit-learn (ML basics)  
+- **Visualization:** Matplotlib / Seaborn  
+- **Deployment:** Streamlit  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Featured Projects
+### ✅ AI/ML Project
+- Built an AI/ML project using Python and Machine Learning  
+- Focused on data preprocessing, model building and evaluation  
+- GitHub Repo:
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/ashish-wandhare
+- GitHub: https://github.com/ashish-wandhare
