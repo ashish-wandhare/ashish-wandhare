@@ -2,7 +2,7 @@
 
 💼 Networking Professional with 10 years of experience  
 🚀 Transitioning to Data Science & AI  
-📌 Skills: Python | SQL | Machine Learning | Data Analytics  
+📌 Skills: Data Science | Python | Machine Learning | Data Analytics  
 
 ---
 
@@ -25,10 +25,10 @@
 ---
 
 ## 📌 Featured Projects
-### ✅ AI/ML Project
-- Built an AI/ML project using Python and Machine Learning  
-- Focused on data preprocessing, model building and evaluation  
-- GitHub Repo:
+### ✅ Smart Shelf Inventory System (Object Detection - YOLOv8)
+- Built an end-to-end AI product detection system from raw shelf images
+- Trained and evaluated YOLOv8 object detection model using Python
+- GitHub Repo: https://github.com/ashish-wandhare/
 
 ---
 
