@@ -39,7 +39,7 @@
 - Built an end-to-end NLP chatbot system from raw text data for intelligent conversation
 - Implemented text preprocessing, semantic embeddings using Sentence Transformers, and response matching using cosine similarity
 - Tech Stack: Python, Pandas, Regex, Sentence Transformers, Scikit-learn
-- GitHub Repo: https://github.com/ashish-wandhare/REPO_NAME
+- GitHub Repo: https://github.com/ashish-wandhare/NLP_Chatbot
 ---
 
 ## 📫 Connect With Me
