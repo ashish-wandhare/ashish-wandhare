@@ -2,7 +2,7 @@
 
 💼 Networking Professional with 10 years of experience  
 🚀 Transitioning to Data Science & AI  
-📌 Skills: Data Science | Python | Machine Learning | Data Analytics  
+📌 Skills: Data Science | Python | Machine Learning | AI
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills & Tools
 - **Programming:** Python  
-- **Data:** SQL, Pandas, NumPy  
+- **Data:** Pandas, NumPy, SQL(Basic)  
 - **ML:** Scikit-learn (ML basics)  
 - **Visualization:** Matplotlib / Seaborn  
 - **Deployment:** Streamlit  
@@ -33,7 +33,7 @@
 ### ✅ Smart Store Product Classification (CNN - MobileNetV2)
 - Built an end-to-end product category classification system from raw store shelf images
 - Trained CNN-based model using Transfer Learning (MobileNetV2) in Python
-- GitHub Repo: https://github.com/ashish-wandhare/REPO_NAME
+- GitHub Repo: https://github.com/ashish-wandhare/
 
 ### ✅ Intelligent NLP Chatbot (Sentence Transformers)
 - Built an end-to-end NLP chatbot system from raw text data for intelligent conversation
