@@ -28,8 +28,18 @@
 ### ✅ Smart Shelf Inventory System (Object Detection - YOLOv8)
 - Built an end-to-end AI product detection system from raw shelf images
 - Trained and evaluated YOLOv8 object detection model using Python
-- GitHub Repo: https://github.com/ashish-wandhare/
+- GitHub Repo: https://github.com/ashish-wandhare/object_detection
 
+### ✅ Smart Store Product Classification (CNN - MobileNetV2)
+- Built an end-to-end product category classification system from raw store shelf images
+- Trained CNN-based model using Transfer Learning (MobileNetV2) in Python
+- GitHub Repo: https://github.com/ashish-wandhare/REPO_NAME
+
+### ✅ Intelligent NLP Chatbot (Sentence Transformers)
+- Built an end-to-end NLP chatbot system from raw text data for intelligent conversation
+- Implemented text preprocessing, semantic embeddings using Sentence Transformers, and response matching using cosine similarity
+- Tech Stack: Python, Pandas, Regex, Sentence Transformers, Scikit-learn
+- GitHub Repo: https://github.com/ashish-wandhare/REPO_NAME
 ---
 
 ## 📫 Connect With Me
