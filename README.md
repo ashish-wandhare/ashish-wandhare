@@ -40,6 +40,13 @@
 - Implemented text preprocessing, semantic embeddings using Sentence Transformers, and response matching using cosine similarity
 - Tech Stack: Python, Pandas, Regex, Sentence Transformers, Scikit-learn
 - GitHub Repo: https://github.com/ashish-wandhare/NLP_Chatbot
+
+### ✅ Context-Aware GenAI Chatbot (RAG - LangChain)
+- Built an advanced Retrieval-Augmented Generation (RAG) chatbot for context-aware question answering
+- Implemented document retrieval using HuggingFace embeddings and Chroma vector store, and generated responses using FLAN-T5
+- Deployed interactive UI using Streamlit
+- Tech Stack: Streamlit, LangChain, HuggingFace Embeddings, Chroma DB, FLAN-T5
+- GitHub Repo: https://github.com/ashish-wandhare/REPO_NAME
 ---
 
 ## 📫 Connect With Me
