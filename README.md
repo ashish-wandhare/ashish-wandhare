@@ -29,11 +29,14 @@
 - Built an end-to-end AI product detection system from raw shelf images
 - Trained and evaluated YOLOv8 object detection model using Python
 - GitHub Repo: https://github.com/ashish-wandhare/object_detection
+- StreamlitCloud: https://ashish-objectdetection.streamlit.app/
+- 
 
 ### ✅ Smart Store Product Classification (CNN - MobileNetV2)
 - Built an end-to-end product category classification system from raw store shelf images
 - Trained CNN-based model using Transfer Learning (MobileNetV2) in Python
 - GitHub Repo: https://github.com/ashish-wandhare/retail_classification
+- streamlitCloud: https://ashish-retailclassification.streamlit.app/
 
 ### ✅ Intelligent NLP Chatbot (Sentence Transformers)
 - Built an end-to-end NLP chatbot system from raw text data for intelligent conversation
@@ -47,6 +50,7 @@
 - Deployed interactive UI using Streamlit
 - Tech Stack: Streamlit, LangChain, HuggingFace Embeddings, Chroma DB, FLAN-T5
 - GitHub Repo: https://github.com/ashish-wandhare/GenAI_Chatbot
+- StreamlitCloud: https://ashish-genai-chatgtp.streamlit.app/
 ---
 
 ## 📫 Connect With Me
