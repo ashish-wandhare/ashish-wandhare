@@ -32,9 +32,9 @@
 - StreamlitCloud: https://ashish-objectdetection.streamlit.app
 - 
 
-### ✅ Smart Store Product Classification (CNN - MobileNetV2)
+### ✅ Smart Store Product Classification (CNN)
 - Built an end-to-end product category classification system from raw store shelf images
-- Trained CNN-based model using Transfer Learning (MobileNetV2) in Python
+- Trained CNN-based model in Python
 - GitHub Repo: https://github.com/ashish-wandhare/retail_classification
 - StreamlitCloud: https://ashish-retailclassification.streamlit.app
 
