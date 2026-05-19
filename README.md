@@ -55,5 +55,6 @@
 ---
 
 ## 📫 Connect With Me
+- Mail: wandhare@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ashish-wandhare
 - GitHub: https://github.com/ashish-wandhare
