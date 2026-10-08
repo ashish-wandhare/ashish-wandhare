@@ -44,6 +44,7 @@
 - Tech Stack: Python, Pandas, Regex, Sentence Transformers, Scikit-learn
 - GitHub Repo: https://github.com/ashish-wandhare/NLP_Chatbot
 - StreamlitCloud: https://nlpchatbot-bzbocjsas2my6v7zfnsxkv.streamlit.app
+- AWS Demo: http://3.26.13.133:8501
 
 ### ✅ Context-Aware GenAI Chatbot (RAG - LangChain)
 - Built an advanced Retrieval-Augmented Generation (RAG) chatbot for context-aware question answering
@@ -52,6 +53,7 @@
 - Tech Stack: Streamlit, LangChain, HuggingFace Embeddings, Chroma DB, FLAN-T5
 - GitHub Repo: https://github.com/ashish-wandhare/GenAI_Chatbot
 - StreamlitCloud: https://ashish-genai-chatgtp.streamlit.app
+- AWS Demo: http://3.26.13.133:8502
 ---
 
 ## 📫 Connect With Me
