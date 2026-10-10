@@ -1,4 +1,4 @@
-# Hi, I'm Ashish Wandhare 👋
+–# Hi, I'm Ashish Wandhare 👋
 
 💼 Networking Professional with 10+ years of IT/Networking experience  
 🚀 Transitioning from Networking to Data Science & AI/ML  
@@ -52,7 +52,7 @@
 
 - **GitHub:** [Repository](https://github.com/ashish-wandhare/retail_classification)
 - **Streamlit Cloud:** [Live Demo](https://ashish-retailclassification.streamlit.app)
-
+- **AWS EC2:** [Live Demo](http://13.239.147.87:8503/)
 ---
 
 ### ✅ Intelligent NLP Chatbot — Sentence Transformers
@@ -64,7 +64,7 @@
 - **Tech Stack:** Python, Pandas, Regex, Sentence Transformers, Scikit-learn
 - **GitHub:** [Repository](https://github.com/ashish-wandhare/NLP_Chatbot)
 - **Streamlit Cloud:** [Live Demo](https://nlpchatbot-bzbocjsas2my6v7zfnsxkv.streamlit.app)
-- **AWS EC2:** [Live Demo](http://3.26.13.133:8501)
+- **AWS EC2:** [Live Demo](http://13.239.147.87:8501/)
 
 ---
 
@@ -79,7 +79,7 @@
 - **Tech Stack:** Python, Streamlit, LangChain, HuggingFace, ChromaDB, FLAN-T5
 - **GitHub:** [Repository](https://github.com/ashish-wandhare/GenAI_Chatbot)
 - **Streamlit Cloud:** [Live Demo](https://ashish-genai-chatgtp.streamlit.app)
-- **AWS EC2:** [Live Demo](http://3.26.13.133:8502)
+- **AWS EC2:** [Live Demo](http://3.107.237.212:8502/)
 
 ---
 
