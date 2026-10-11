@@ -41,6 +41,7 @@
 
 - **GitHub:** [Repository](https://github.com/ashish-wandhare/object_detection)
 - **Streamlit Cloud:** [Live Demo](https://ashish-objectdetection.streamlit.app)
+- **AWS EC2:** [Live Demo](http://3.27.15.140:8504/)
 
 ---
 
