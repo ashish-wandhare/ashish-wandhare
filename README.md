@@ -83,6 +83,7 @@
 - **AWS EC2:** [Live Demo](http://3.107.237.212:8502/)
 
 ---
+### ✅ Supervised ML Explorer
 
 - Supervised ML Explorer — Interactive Machine Learning Platform
 - Developed and customized an interactive platform for exploring supervised machine learning algorithms.
