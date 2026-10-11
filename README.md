@@ -84,6 +84,18 @@
 
 ---
 
+- Supervised ML Explorer — Interactive Machine Learning Platform
+- Developed and customized an interactive platform for exploring supervised machine learning algorithms.
+- Tested the application locally and modified the code in VS Code to meet project requirements.
+- Used FastAPI to provide backend API functionality and an HTML/CSS/JavaScript frontend.
+- Deployed the application on Render and AWS EC2.
+- Configured Nginx as a reverse proxy and systemd for automatic backend service startup.
+- Tech Stack: Python, FastAPI, Scikit-learn, HTML, CSS, JavaScript, Nginx, AWS EC2, Git, GitHub
+- **Streamlit Cloud:** [Live Demo](https://github.com/ashish-wandhare/supervised_ml_explorer)
+- **AWS EC2:** [Live Demo](http://3.26.44.18:8505/)
+
+---
+
 ## 📫 Connect With Me
 
 - **Email:** [wandhare@gmail.com](mailto:wandhare@gmail.com)
