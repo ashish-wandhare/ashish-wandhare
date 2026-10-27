@@ -86,7 +86,9 @@
 ### ✅ Supervised ML Explorer
 
 - Supervised ML Explorer — Interactive Machine Learning Platform
+  
 - Developed and customized an interactive platform for exploring supervised machine learning algorithms.
+  
 - Tested the application locally and modified the code in VS Code to meet project requirements.
 - Used FastAPI to provide backend API functionality and an HTML/CSS/JavaScript frontend.
 - Deployed the application on Render and AWS EC2.
